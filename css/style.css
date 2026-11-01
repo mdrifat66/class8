@@ -35,14 +35,18 @@
               font-weight: 400;
               color: #474747;
          }
-         .button{
-            padding:15px 25px;
-            background: #fd4e0f; ;
-            border-radius:5px;
-            color: aliceblue;
-            font-weight: 700;
-                  font-family: "Open Sans", sans-serif;
-                  font-size: 20px;
+         .button {
+  
+         display: inline-flex;
+          align-items: center;
+         justify-content: center;
+         padding: 12px 30px;
+          background: #fd4e0f;
+          border-radius: 5px;
+          color: aliceblue;
+          font-weight: 700;
+          font-family: "Open Sans", sans-serif;
+          font-size: 20px;
          }
          .logo{ 
             width: 50%
@@ -53,6 +57,7 @@
 
          }
          .button {
+            
              width: 20%
 
          }
